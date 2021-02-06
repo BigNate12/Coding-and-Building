@@ -1,0 +1,17 @@
+body {
+			font-family: 'ZCOOL KuaiLe', cursive;
+			background: #0373fc;
+		}
+
+		.awesome {
+			color: yellow;
+
+		}
+    .image
+    {
+      
+    padding-bottom: 10px;
+
+     width: 100px; 
+     max-height: 100px;
+    }
